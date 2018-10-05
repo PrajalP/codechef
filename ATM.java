@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 class ATM{
+  anvknej
   public static void main(String args[])
   {
     int withdraw;
